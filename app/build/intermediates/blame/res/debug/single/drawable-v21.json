@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/root/AndroidStudioProjects/Alura/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/root/.android/build-cache/766f90c6f6a6c8b84fcfd0a4a945f387c2523c29/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/Alura/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/root/.android/build-cache/766f90c6f6a6c8b84fcfd0a4a945f387c2523c29/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/Alura/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/root/.android/build-cache/766f90c6f6a6c8b84fcfd0a4a945f387c2523c29/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/Alura/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/root/.android/build-cache/766f90c6f6a6c8b84fcfd0a4a945f387c2523c29/output/res/drawable-v21/abc_btn_colored_material.xml"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/root/AndroidStudioProjects/Alura/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_preferencias.png",
+        "source": "/root/AndroidStudioProjects/Alura/app/src/main/res/drawable-hdpi/ic_preferencias.png"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/Alura/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_receber.png",
+        "source": "/root/AndroidStudioProjects/Alura/app/src/main/res/drawable-hdpi/ic_receber.png"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/Alura/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_mapa.png",
+        "source": "/root/AndroidStudioProjects/Alura/app/src/main/res/drawable-hdpi/ic_mapa.png"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/Alura/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_no_image.png",
+        "source": "/root/AndroidStudioProjects/Alura/app/src/main/res/drawable-hdpi/ic_no_image.png"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/Alura/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_confirmar.png",
+        "source": "/root/AndroidStudioProjects/Alura/app/src/main/res/drawable-hdpi/ic_confirmar.png"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/Alura/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_enviar.png",
+        "source": "/root/AndroidStudioProjects/Alura/app/src/main/res/drawable-hdpi/ic_enviar.png"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/Alura/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_opcoes.png",
+        "source": "/root/AndroidStudioProjects/Alura/app/src/main/res/drawable-hdpi/ic_opcoes.png"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/Alura/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_camera.png",
+        "source": "/root/AndroidStudioProjects/Alura/app/src/main/res/drawable-hdpi/ic_camera.png"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/Alura/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/root/AndroidStudioProjects/Alura/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    }
+]
